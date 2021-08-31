@@ -1,0 +1,25 @@
+.cabecalho {
+
+    background-color:black;
+    padding: 25px;
+    
+
+}
+.cabecalhoLista {
+    display: grid;
+    grid-template-columns:145px 145px 145px;
+    justify-content: space-around;
+
+}
+
+.cabecalhoLista-link:first-child {
+    border-left: none;
+}
+
+.cabecalhoLink {
+    text-decoration: none;
+    color: white;
+    
+
+}
+
